@@ -1,10 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/volti)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/volti?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/volti?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/EBS4Cl0IK2Q?style=social)](https://youtu.be/EBS4Cl0IK2Q)
 
   <br />
   <br />
@@ -13,7 +8,7 @@
 
   Volti is a fully responsive electric vehicle charging website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/volti/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/Sameergour1/Echarging"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -27,7 +22,7 @@
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+* [Git](https://github.com/Sameergour1/Echarging") must be installed on your operating system.
 
 ### Run Locally
 
@@ -36,18 +31,18 @@ To run **Volti** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/volti.git
+sudo git clone https://github.com/Sameergour1/Echarging
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/volti.git
+git clone https://github.com/Sameergour1/Echarging
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [linkedin](https://www.linkedin.com/in/sameergour8488/).
 
 ### License
 
